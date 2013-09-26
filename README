@@ -1,0 +1,5 @@
+Test v 0.1
+
+Este programa determina el rendimiento de utilizar un IF-ELSE o un bucle FOR para buscar un número entero.
+
+Los resultados de los test serán guardados en la ruta C:\Test_IF_vs_FOR.txt
