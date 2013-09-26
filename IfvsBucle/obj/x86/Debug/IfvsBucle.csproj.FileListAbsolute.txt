@@ -1,0 +1,5 @@
+C:\AntonioMoya\PROYECTOS_C#\GitHub\IfvsBucle\IfvsBucle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\AntonioMoya\PROYECTOS_C#\GitHub\IfvsBucle\IfvsBucle\bin\Debug\IfvsBucle.exe
+C:\AntonioMoya\PROYECTOS_C#\GitHub\IfvsBucle\IfvsBucle\bin\Debug\IfvsBucle.pdb
+C:\AntonioMoya\PROYECTOS_C#\GitHub\IfvsBucle\IfvsBucle\obj\x86\Debug\IfvsBucle.exe
+C:\AntonioMoya\PROYECTOS_C#\GitHub\IfvsBucle\IfvsBucle\obj\x86\Debug\IfvsBucle.pdb
